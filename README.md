@@ -9,7 +9,7 @@ Data analyzed by the N&O on maternal mortality.
 - National Vital Statistics System reports on final live birth data
 
 ## Maternal mortality, 2012-2021
-The following table details both the number maternal deaths and rate of maternal deaths per 100,000 births for states from 2012 to 2021, according to the CDC. Raw counts and rates are listed for both ages 15-44 and all ages for any death with ICD-10 codes A34 and O00-O99, according to the CDC WONDER tool. Data was accessed and combined from four separate queries for [ages 15-44 and years 2018-2021](https://wonder.cdc.gov/controller/saved/D157/D328F921), [ages 15-44 and years 1999-2020](https://wonder.cdc.gov/controller/saved/D76/D329F039), [all ages and years 2018-2021](https://wonder.cdc.gov/controller/saved/D157/D329F222) and [all ages and years 1999-2020](https://wonder.cdc.gov/controller/saved/D76/D329F223).
+The following table details both the number maternal deaths and rate of maternal deaths per 100,000 births for states from 2012 to 2021, according to the CDC. Raw counts and rates are listed for both ages 15-44 and all ages for any underlying cause of death with ICD-10 codes A34 and O00-O99, according to the CDC WONDER tool. Data was accessed and combined from four separate queries for [ages 15-44 and years 2018-2021](https://wonder.cdc.gov/controller/saved/D157/D328F921), [ages 15-44 and years 1999-2020](https://wonder.cdc.gov/controller/saved/D76/D329F039), [all ages and years 2018-2021](https://wonder.cdc.gov/controller/saved/D157/D329F222) and [all ages and years 1999-2020](https://wonder.cdc.gov/controller/saved/D76/D329F223).
 
 Live birth data sourced from National Vital Statistics System final reports for years 2012-2021.
 
@@ -388,3 +388,20 @@ States and years not listed were suppressed by the CDC when the data met the cri
 | 2021|Colorado       |  62,949|             16|           25|             16|           25|    0|
 | 2021|California     | 420,608|             94|           22|             95|           23|    1|
 | 2021|Massachusetts  |  69,137|             15|           22|             15|           22|    0|
+
+## NC maternal deaths by race
+
+Analysis of deaths with any underlying cause of death with ICD-10 codes A34 and O00-O99, according to the N.C. DHHS State Center for Health Statistics death certificate database. Rates calculated per 100,000, based on the number of live births sourced from National Vital Statistics System final reports for 2021.
+
+*NOTE: 2022 data is not final* 
+
+|Race  | 2018| 2019| 2020| 2021| 2022*| Births, 2021| 2021 rate|
+|:-----|----:|----:|----:|----:|----:|------:|---------:|
+|WHITE |    9|   14|   18|   32|   28|  63,239|        51|
+|BLACK |    8|   20|   40|   32|   21|  27,028|       118|
+|HISP  |    2|    6|    5|   12|    9|  20,613|        58|
+|AMIND |    0|    0|    1|    2|    1|   1,407|       142|
+|ASIAN |    0|    2|    2|    2|    1|   4,684|        43|
+|OTHER |    0|    1|    0|    0|    1|     NA|        NA|
+|PACIS |    0|    0|    1|    0|    0|    126|         0|
+|Total |   19|   43|   67|   80|   61| 120,466|        66|
