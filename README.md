@@ -8,9 +8,12 @@ Data analyzed by the N&O on maternal mortality.
 - N.C. Department of Health and Human Services State Center for Health Statistics death certificate database
 - National Vital Statistics System reports on final live birth data
 
-## Data discrepancies
+## Maternal mortality, 2012-2021
+The following table details both the number and rate of maternal death for states from 2012 to 2021, according to the CDC. Raw counts and rates are listed for both ages 15-44 and all ages for any death with ICD-10 codes A34 and O00-O99, according to the CDC WONDER tool. Data was accessed and combined from four separate queries for [ages 15-44 and years 2018-2021](https://wonder.cdc.gov/controller/saved/D157/D328F921), [ages 15-44 and years 1999-2020](https://wonder.cdc.gov/controller/saved/D76/D329F039), [all ages and years 2018-2021](https://wonder.cdc.gov/controller/saved/D157/D329F222) and [all ages and years 1999-2020](https://wonder.cdc.gov/controller/saved/D76/D329F223).
 
-| year|state          | births| age1544_deaths| age1544_rate| age_all_deaths| age_all_rate| diff|
+States and years not listed were suppressed by the CDC when the data met the criteria for confidentiality constraints.
+
+| Year|State          | Births| Deaths, ages 15-44| Rate, ages 15-44| Deaths, all ages| Rate, all ages| Difference|
 |----:|:--------------|------:|--------------:|------------:|--------------:|------------:|----:|
 | 2016|Alabama        |  59151|             30|           51|             30|           51|    0|
 | 2017|Alabama        |  58941|             37|           63|             37|           63|    0|
