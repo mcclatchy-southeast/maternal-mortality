@@ -12,7 +12,7 @@ Rates are calculated per 100,000 live births, according to annual final reports 
 
 Because the CDC suppresses death totals for some states where the figures are low enough to risk patient privacy, the graphic below shows all states with the full 10 years of data available from the CDC.
 
-The CDC notes the following: *Caution should be taken in interpreting these data and comparing states for the following reasons. - For many states, the data are based on small numbers and are, therefore, statistically unreliable. Statistical variability in the maternal mortality rate is determined largely by the number of maternal deaths (i.e., as the number of deaths decreases, the variance, or measure of uncertainty, increases). Rates based on fewer than 20 deaths are suppressed because of reliability and confidentiality. - It is likely that some of the variation in state rates is due to the marked differences in the quality of state maternal mortality data. Variation in the quality of reporting maternal deaths may be due to differences in electronic registration systems and differences in policies and programs designed to verify the pregnancy status of female decedents of reproductive age. These differences may result in underestimates of maternal deaths in some cases, and overestimates in others.*
+### Maternal mortality over time
 
 ![Maternal mortality 2012-2021](/img/mmr_combined.png)
 
@@ -115,3 +115,5 @@ The CDC notes the following: *Caution should be taken in interpreting these data
 |Michigan       |   22|   27|   16|   21|   24|   16|   18|   16|   29|   20|
 |Arkansas       |   15|   14|   20|   10|   13|   12|   17|   12|   15|   19|
 |Missouri       |   29|   26|   27|   27|   21|   17|   12|   12|   30|   19|
+
+The CDC notes the following: *Caution should be taken in interpreting these data and comparing states for the following reasons. - For many states, the data are based on small numbers and are, therefore, statistically unreliable. Statistical variability in the maternal mortality rate is determined largely by the number of maternal deaths (i.e., as the number of deaths decreases, the variance, or measure of uncertainty, increases). Rates based on fewer than 20 deaths are suppressed because of reliability and confidentiality. - It is likely that some of the variation in state rates is due to the marked differences in the quality of state maternal mortality data. Variation in the quality of reporting maternal deaths may be due to differences in electronic registration systems and differences in policies and programs designed to verify the pregnancy status of female decedents of reproductive age. These differences may result in underestimates of maternal deaths in some cases, and overestimates in others.*
