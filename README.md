@@ -2,15 +2,17 @@
 
 A preliminary analysis by The News & Observer appears to show maternal mortality worsening in North Carolina. Although rates of maternal mortality increased nationally during the pandemic, the data appears to show North Carolina has seen some of the sharpest rises among states where data is available.
 
-NOTE: The results here are PRELIMINARY and are subject to change as additional verification, fact-checking, etc. takes place. If you spot any errors, please contact Tyler Dukes.
+**NOTE: The results here are PRELIMINARY and are subject to change as additional verification, fact-checking, etc. takes place. If you spot any errors, please contact Tyler Dukes.**
 
 ## Maternal mortality, 2012-2021
 
-Maternal mortality rates are calculated for both early-stage (during pregnancy to 6 weeks after) and late-stage (6 weeks to a year after pregnancy) pregnancy-related deaths using data accessed through the CDC's WONDER tool. Early-stage maternal deaths count all deaths with an underlying cause of death using the ICD-10 codes A34, O00-O95 and O98-O99. Late-sage maternal deaths are calculated by subtracting early-stage maternal deaths from all deaths with an underlying cause of death listed as A34, O00-O95, O96 or O98-99.
+Maternal mortality rates are calculated for both early-stage (during pregnancy to 6 weeks after) and late-stage (6 weeks to a year after pregnancy) pregnancy-related deaths using data accessed through the CDC's WONDER tool. Early-stage maternal deaths count all deaths with an underlying cause of death using the ICD-10 codes A34, O00-O95 and O98-O99. Late-stage maternal deaths are calculated by subtracting early-stage maternal deaths from all deaths with an underlying cause of death listed as A34, O00-O95, O96 or O98-99.
 
 Rates are calculated per 100,000 live births, according to annual final reports from the National Vital Statistics System.
 
 Because the CDC suppresses death totals for some states where the figures are low enough to risk patient privacy, the graphic below shows all states with the full 10 years of data available from the CDC.
+
+The CDC notes the following: *Caution should be taken in interpreting these data and comparing states for the following reasons. - For many states, the data are based on small numbers and are, therefore, statistically unreliable. Statistical variability in the maternal mortality rate is determined largely by the number of maternal deaths (i.e., as the number of deaths decreases, the variance, or measure of uncertainty, increases). Rates based on fewer than 20 deaths are suppressed because of reliability and confidentiality. - It is likely that some of the variation in state rates is due to the marked differences in the quality of state maternal mortality data. Variation in the quality of reporting maternal deaths may be due to differences in electronic registration systems and differences in policies and programs designed to verify the pregnancy status of female decedents of reproductive age. These differences may result in underestimates of maternal deaths in some cases, and overestimates in others.*
 
 ![Maternal mortality 2012-2021](/img/mmr_combined.png)
 
