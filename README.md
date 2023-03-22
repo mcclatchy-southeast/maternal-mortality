@@ -126,15 +126,30 @@ Analysis of both early-stage (during pregnancy to 6 weeks after) and late-stage 
 
 Death certificate data tracks the death of any person in North Carolina, regardless of residency. As such, these figures will differ slightly from the data above from the CDC, which counts deaths based on a person's residence.
 
-*NOTE: 2022 data from DHHS is not final.*
+### Maternal mortality rates by race/ethnicity
 
-|race  | births_2021| 2018| 2019| 2020| 2021| 2022*| rate_2021|
+*NOTE: 2022 data below from DHHS is not final.*
+
+|race  | births_2021| 2018| 2019| 2020| 2021| *2022*| rate_2021|
 |:-----|-----------:|----:|----:|----:|----:|----:|---------:|
-|WHITE |       63239|    9|   14|   18|   32|   28|        51|
-|BLACK |       27028|    8|   20|   39|   31|   21|       115|
-|HISP  |       20613|    2|    6|    5|   12|    9|        58|
-|AMIND |        1407|    0|    0|    1|    2|    1|       142|
-|ASIAN |        4684|    0|    2|    2|    2|    1|        43|
-|OTHER |          NA|    0|    1|    0|    0|    1|        NA|
-|PACIS |         126|    0|    0|    1|    0|    0|         0|
-|Total |      120466|   19|   43|   66|   79|   61|        66|
+|WHITE |       63239|    9|   14|   18|   32|   *28*|        51|
+|BLACK |       27028|    8|   20|   39|   31|   *21*|       115|
+|HISP  |       20613|    2|    6|    5|   12|    *9*|        58|
+|AMIND |        1407|    0|    0|    1|    2|    *1*|       142|
+|ASIAN |        4684|    0|    2|    2|    2|    *1*|        43|
+|OTHER |          NA|    0|    1|    0|    0|    *1*|        NA|
+|PACIS |         126|    0|    0|    1|    0|    *0*|         0|
+|Total |      120466|   19|   43|   66|   79|   *61*|        66|
+
+
+### Maternal mortality and COVID
+
+Death certificates that listed the ICD-10 code for COVID (U071) as a contributing cause of death along with a pregnancy-related underlying cause of death.
+
+*NOTE: 2022 data below from DHHS is not final.*
+
+|covid_code | 2018| 2019| 2020| 2021| *2022*|
+|:----------|----:|----:|----:|----:|----:|
+|NOT LISTED |   19|   43|   63|   53|   *57*|
+|LISTED     |    0|    0|    3|   26|    *4*|
+|Total      |   19|   43|   66|   79|   *61*|
