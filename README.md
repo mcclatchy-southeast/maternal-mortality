@@ -117,3 +117,24 @@ Because the CDC suppresses death totals for some states where the figures are lo
 |Missouri       |   29|   26|   27|   27|   21|   17|   12|   12|   30|   19|
 
 The CDC notes the following: *Caution should be taken in interpreting these data and comparing states for the following reasons. - For many states, the data are based on small numbers and are, therefore, statistically unreliable. Statistical variability in the maternal mortality rate is determined largely by the number of maternal deaths (i.e., as the number of deaths decreases, the variance, or measure of uncertainty, increases). Rates based on fewer than 20 deaths are suppressed because of reliability and confidentiality. - It is likely that some of the variation in state rates is due to the marked differences in the quality of state maternal mortality data. Variation in the quality of reporting maternal deaths may be due to differences in electronic registration systems and differences in policies and programs designed to verify the pregnancy status of female decedents of reproductive age. These differences may result in underestimates of maternal deaths in some cases, and overestimates in others.*
+
+## Maternal mortality in NC
+
+for both early-stage (during pregnancy to 6 weeks after) and late-stage (6 weeks to a year after pregnancy) pregnancy-related deaths
+
+Analysis of both early-stage (during pregnancy to 6 weeks after) and late-stage (6 weeks to a year after pregnancy) pregnancy-related deaths, according to the N.C. DHHS State Center for Health Statistics death certificate database. Rates calculated per 100,000 live births sourced from National Vital Statistics System final reports for 2021.
+
+Death certificate data tracks the death of any person in North Carolina, regardless of residency. As such, these figures will differ slightly from the data above from the CDC, which counts deaths based on a person's residence.
+
+*NOTE: 2022 data from DHHS is not final.*
+
+|race  | births_2021| 2018| 2019| 2020| 2021| 2022*| rate_2021|
+|:-----|-----------:|----:|----:|----:|----:|----:|---------:|
+|WHITE |       63239|    9|   14|   18|   32|   28|        51|
+|BLACK |       27028|    8|   20|   39|   31|   21|       115|
+|HISP  |       20613|    2|    6|    5|   12|    9|        58|
+|AMIND |        1407|    0|    0|    1|    2|    1|       142|
+|ASIAN |        4684|    0|    2|    2|    2|    1|        43|
+|OTHER |          NA|    0|    1|    0|    0|    1|        NA|
+|PACIS |         126|    0|    0|    1|    0|    0|         0|
+|Total |      120466|   19|   43|   66|   79|   61|        66|
