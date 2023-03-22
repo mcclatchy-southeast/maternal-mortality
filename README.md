@@ -2,7 +2,7 @@
 
 A preliminary analysis by The News & Observer appears to show maternal mortality worsening in North Carolina. Although rates of maternal mortality increased nationally during the pandemic, the data appears to show North Carolina has seen some of the sharpest rises among states where data is available.
 
-**NOTE: The results here are PRELIMINARY and are subject to change as additional verification, fact-checking, etc. takes place. If you spot any errors, please contact Tyler Dukes.**
+**NOTE: The results here are PRELIMINARY and are subject to change as additional verification, fact-checking, etc. takes place. If you spot any errors, please contact N&O reporter [Tyler Dukes](mailto:mtdukes@newsobserver.com).**
 
 ## Maternal mortality, 2012-2021
 
@@ -120,7 +120,7 @@ The CDC notes the following: *Caution should be taken in interpreting these data
 
 ## Maternal mortality in NC
 
-for both early-stage (during pregnancy to 6 weeks after) and late-stage (6 weeks to a year after pregnancy) pregnancy-related deaths
+**NOTE: The results here are PRELIMINARY and are subject to change as additional verification, fact-checking, etc. takes place. If you spot any errors, please contact N&O reporter [Tyler Dukes](mailto:mtdukes@newsobserver.com).**
 
 Analysis of both early-stage (during pregnancy to 6 weeks after) and late-stage (6 weeks to a year after pregnancy) pregnancy-related deaths, according to the N.C. DHHS State Center for Health Statistics death certificate database. Rates calculated per 100,000 live births sourced from National Vital Statistics System final reports for 2021.
 
