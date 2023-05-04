@@ -152,20 +152,26 @@ The N&O analyzed both maternal deaths (during pregnancy to 6 weeks after) and la
 
 *NOTE: Counts for other races/ethnicities excluded. 2022 data below from DHHS is not final.*
 
-|year | WHITE| BLACK| HISP| Total|
-|:----|-----:|-----:|----:|-----:|
-|2018 |     9|     8|    2|    19|
-|2019 |    14|    20|    6|    43|
-|2020 |    18|    39|    5|    66|
-|2021 |    32|    31|   12|    79|
-|*2022* |    *28*|    *21*|    *9*|    *61*|
+|Year | Total| White| Black| Hispanic|
+|:----|-----:|-----:|-----:|--------:|
+|2014 |    34|    10|    21|        2|
+|2015 |    43|    22|    15|        4|
+|2016 |    37|    19|    14|        4|
+|2017 |    25|    11|    11|        0|
+|2018 |    19|     9|     8|        2|
+|2019 |    43|    14|    20|        6|
+|2020 |    66|    18|    39|        5|
+|2021 |    79|    32|    31|       12|
+|*2022* |    *61*|    *28*|    *21*|        *9*|
 
 ### Pregnancy-related death rates by race/ethnicity
 
-*NOTE: Rates for other races/ethnicities excluded. 2022 data below from DHHS is not final.*
+*NOTE: Racial data for years prior to 2016 not comparable due to changes in how ethnicity was recorded. Rates for other races/ethnicities excluded. 2022 data below from DHHS is not final.*
 
 |year | total| white| black| hisp|
 |:----|-----:|-----:|-----:|----:|
+|2016 |  30.6|  28.9|  51.1| 21.8|
+|2017 |  20.8|  17.1|  39.4|  0.0|
 |2018 |  16.0|  14.2|  28.9| 10.9|
 |2019 |  36.2|  22.5|  72.1| 31.4|
 |2020 |  56.5|  29.7| 143.2| 25.7|
@@ -177,11 +183,11 @@ Death certificates that listed the ICD-10 code for COVID (U071) as a contributin
 
 *NOTE: 2022 data below from DHHS is not final.*
 
-|covid_code | 2018| 2019| 2020| 2021| *2022*|
-|:----------|----:|----:|----:|----:|----:|
-|NOT LISTED |   19|   43|   63|   53|   *57*|
-|LISTED     |    0|    0|    3|   26|    *4*|
-|Total      |   19|   43|   66|   79|   *61*|
+|covid_code | 2019| 2020| 2021| *2022*|
+|:----------|----:|----:|----:|----:|
+|NOT LISTED |   43|   63|   53|   *57*|
+|LISTED     |    0|    3|   26|    *4*|
+|Total      |   43|   66|   79|   *61*|
 
 ### Pregnancy-related deaths and rural-urban classification, 2018-2021
 
