@@ -2,6 +2,16 @@
 
 [Initially prompted](https://github.com/MuckRock/maternal-mortality) by the release of data from the nonprofit journalism organization MuckRock, reporters at The News & Observer in early March set out to examine why more women in the U.S. and North Carolina are dying of pregnancy-related complications.
 
+## Read the series
+
+* [Pregnancy can be risky in the U.S. In North Carolina, the threat is even higher.](https://www.newsobserver.com/news/state/north-carolina/article277397263.html)<br />July 19, 2023 // Teddy Rosenbluth & Tyler Dukes
+
+* [Maternal deaths just ‘one part of the story’ in NC. Pregnancy complications are rising](https://www.newsobserver.com/news/state/north-carolina/article277056348.html)<br />July 19, 2023 // Tyler Dukes & Teddy Rosenbluth
+
+* [Weary of lopsided birth risks, Charlotte women expand care for Black women themselves](https://www.charlotteobserver.com/news/state/north-carolina/article276965933.html)<br />July 19, 2023 // Lisa Vernon Sparks
+
+* [Pregnancy-related deaths open voids in families expecting to celebrate new life](https://www.newsobserver.com/news/state/north-carolina/article277398108.html)<br />July 19, 2023 // Tyler Dukes & Ethan Hyman
+
 ## How we did this story
 
 National and international health agencies have slightly different ways to define pregnancy-related deaths.
