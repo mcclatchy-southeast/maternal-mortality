@@ -1,201 +1,178 @@
-# Maternal mortality and pregancy-related deaths
+# Pregnancy-related deaths in North Carolina
 
-A preliminary analysis by The News & Observer appears to show pregnancy-related deaths worsening in North Carolina. Although rates of these deaths increased nationally during the pandemic, the data appears to show North Carolina has seen some of the sharpest rises among states where data is available.
+[Initially prompted](https://github.com/MuckRock/maternal-mortality) by the release of data from the nonprofit journalism organization MuckRock, reporters at The News & Observer in early March set out to examine why more women in the U.S. and North Carolina are dying of pregnancy-related complications.
 
-**NOTE: The results here are PRELIMINARY and are subject to change as additional verification, fact-checking, etc. takes place. If you spot any errors, please contact N&O reporter [Tyler Dukes](mailto:mtdukes@newsobserver.com).**
+## How we did this story
 
-## Pregnancy-related deaths, 2018-2021
+National and international health agencies have slightly different ways to define pregnancy-related deaths.
 
-Rates of pregnancy-related deaths are calculated for both maternal deaths (during pregnancy to 6 weeks after) and late maternal deaths (6 weeks to a year after pregnancy) using data accessed through the CDC's WONDER tool. Maternal deaths count all deaths with an underlying cause of death using the ICD-10 codes A34, O00-O95 and O98-O99. Late maternal deaths are calculated by subtracting maternal deaths from all deaths with an underlying cause of death listed as A34, O00-O95, O96 or O98-99.
+The N&O used the definition of the [Centers for Disease Control and Prevention](https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-mortality-surveillance-system.htm#:~:text=defines%20a%20pregnancy%2Drelated%20death%20as%20a%20death%20while%20pregnant%20or%20within%201%20year%20of%20the%20end%20of%20pregnancy%20from%20any%20cause%20related%20to%20or%20aggravated%20by%20the%20pregnancy.) and [research by Marie Thoma](https://www.documentcloud.org/documents/23720948-changes_in_pregnancy_related_mortality_associated721), of the University of Maryland School of Public Health, which count as pregnancy-related any deaths "from any cause related to or aggravated by the pregnancy" within a year of being pregnant. This includes all death certificates with medical codes for obstetrical tetanus (ICD-10 codes A34) and diseases/injuries related to pregnancy, childbirth and the postpartum period (O00-O96 and O98-O99).
 
-Rates are calculated per 100,000 live births, according to annual final reports from the National Vital Statistics System.
+N&O reporters obtained data on these deaths – both for individual states and the U.S. overall – through the [CDC's online WONDER tool](https://wonder.cdc.gov/controller/saved/D158/D330F878) for the years 2018 to 2021. Data from years prior to 2018, experts said, were less reliable because of substantial changes in the way pregnancy-related deaths were tracked state by state.
 
-Because the CDC suppresses death totals for some states where the figures are low enough to risk patient privacy, the graphic below shows all states with the full four years of data available from the CDC.
+Because the CDC suppresses death totals for some states where the figures are low enough to risk patient privacy, not all states are represented in the data. The CDC warns against comparisons and rankings state-by-state.
 
-### Pregnancy-related deaths over time
+Rates are calculated per 100,000 live births, according to annual final reports from the [National Vital Statistics System](https://www.cdc.gov/nchs/nvss/births.htm).
 
-![Pregnancy-related deaths 2018-2021](/img/revised20182021.png)
+The N&O used the same methodology to examine racial disparities in pregnancy-related deaths using both CDC data and the State Center for Health Statistics death certificate database through a 2020 data use agreement with the N.C. Department of Health and Human Services. In some cases, figures from this data, which only tracks the death of North Carolina residents who die in the state, differ slightly from data from the CDC, which counts deaths by residency regardless of where they died.
 
-### Pregnancy-related death (pregnancy to 1 year) rates by state
+State Health Statistics death certificate data from 2022 is still preliminary.
 
-|state          | 2018| 2019| 2020| 2021|
-|:--------------|----:|----:|----:|----:|
-|*United States* | *24.7*| *28.7*| *35.1*| *45.5*|
-|Alabama        | 53.7| 56.3| 59.0| 86.1|
-|Georgia        | 48.3| 49.1| 40.0| 76.6|
-|Louisiana      | 35.2| 44.1| 54.1| 76.6|
-|Tennessee      | 32.2| 36.0| 66.1| 74.6|
-|**North Carolina** | **20.2**| **37.9**| **56.5**| **68.1**|
-|Arkansas       | 59.4| 38.3| 62.4| 66.7|
-|South Carolina | 28.2| 42.1| 55.7| 64.7|
-|Virginia       | 21.0| 32.8| 46.4| 62.6|
-|Texas          | 24.3| 22.5| 42.1| 54.9|
-|Oklahoma       | 34.1| 28.5| 25.2| 51.6|
-|Missouri       | 32.8| 22.2| 56.3| 50.4|
-|Ohio           | 20.0| 33.5| 33.3| 50.1|
-|Florida        | 24.4| 31.4| 27.7| 49.5|
-|Arizona        | 27.3| 39.1| 50.7| 48.8|
-|Indiana        | 28.2| 40.8| 42.0| 47.5|
-|Kentucky       | 53.8| 39.6| 54.2| 44.0|
-|New Jersey     | 33.6| 34.1| 35.7| 43.4|
-|New York       | 28.7| 34.8| 33.4| 42.2|
-|Maryland       | 23.9| 31.3| 26.3| 38.1|
-|Illinois       | 15.2| 14.3| 27.8| 35.6|
-|Pennsylvania   | 19.9| 29.1| 19.1| 34.7|
-|Michigan       | 17.3| 31.5| 36.5| 31.4|
-|Washington     | 20.9| 35.3| 20.5| 29.8|
-|California     | 17.4| 15.2| 19.3| 21.9|
+To gauge the direct impact of the coronavirus pandemic, reporters also analyzed state death certificate data listing the medical code for COVID-19 (ICD-10 code U071) as a contributing cause of death along with a pregnancy-related underlying cause of death.
 
-### Maternal mortality (pregnancy to 6 weeks) rates by state
+The N&O also obtained data from N.C. DHHS based on hospital discharges related to severe maternal morbidity. These so-called "near misses" occur when a pregnant woman almost dies from a list of serious maternal injuries or illnesses [defined by the Alliance for Innovation on Maternal Health](https://saferbirth.org/wp-content/uploads/AIM-SMM-Code-List_04042023.xlsx).
 
-|state          | 2018| 2019| 2020| 2021|
-|:--------------|----:|----:|----:|----:|
-|*United States*  | *17.4*| *20.1*| *23.8*| *32.9*|
-|Tennessee      | 26.0| 26.1| 52.1| 62.4|
-|Louisiana      | 25.2| 33.9| 36.6| 60.9|
-|Alabama        | 36.4| 35.8| 36.4| 56.8|
-|Arkansas       | 45.9| 32.8| 42.6| 52.8|
-|Virginia       | 16.0| 21.6| 29.6| 50.1|
-|Georgia        | 27.7| 34.0| 24.5| 49.2|
-|Oklahoma       | 30.1| 22.4| 21.0| 47.5|
-|**North Carolina** | **10.9**| **21.9**| **29.1**| **44.0**|
-|Texas          | 18.5| 18.3| 32.0| 43.9|
-|South Carolina | 24.7| 29.8| 32.3| 43.7|
-|Arizona        | 22.3| 25.2| 37.7| 41.1|
-|Florida        | 15.8| 26.8| 22.4| 40.2|
-|Indiana        | 24.5| 28.4| 31.8| 40.0|
-|Kentucky       | 40.8| 37.7| 40.6| 34.5|
-|Ohio           | 14.1| 23.8| 26.3| 31.6|
-|Illinois       |  9.7| 10.0| 19.5| 31.0|
-|New Jersey     | 26.7| 18.1| 27.6| 30.5|
-|Maryland       | 14.1| 21.4| 20.4| 29.3|
-|Missouri       | 16.4| 16.6| 43.3| 27.4|
-|New York       | 20.8| 22.1| 17.7| 26.1|
-|Pennsylvania   | 14.0| 18.6| 12.2| 21.9|
-|Washington     | 15.1| 27.1| 19.3| 20.3|
-|Michigan       | 16.4| 14.8| 27.9| 19.1|
-|California     | 11.7| 11.2|  7.6|  9.7|
+Severe maternal morbidity data from 2022 is still provisional.
 
-### Pregnancy-related deaths (pregnancy to 1 year) by state
+## Get the data
 
-|state          | 2018| 2019| 2020| 2021|
-|:--------------|----:|----:|----:|----:|
-|*United States*  |  *935*| *1,076*| *1,268*| *1,666*|
-|Texas          |   92|   85|  155|  205|
-|Florida        |   54|   69|   58|  107|
-|Georgia        |   61|   62|   49|   95|
-|California     |   79|   68|   81|   92|
-|New York       |   65|   77|   70|   89|
-|**North Carolina** |   **24**|   **45**|   **66**|   **82**|
-|Ohio           |   27|   45|   43|   65|
-|Tennessee      |   26|   29|   52|   61|
-|Virginia       |   21|   32|   44|   60|
-|Alabama        |   31|   33|   34|   50|
-|Illinois       |   22|   20|   37|   47|
-|Pennsylvania   |   27|   39|   25|   46|
-|Louisiana      |   21|   26|   31|   44|
-|New Jersey     |   34|   34|   35|   44|
-|Arizona        |   22|   31|   39|   38|
-|Indiana        |   23|   33|   33|   38|
-|South Carolina |   16|   24|   31|   37|
-|Missouri       |   24|   16|   39|   35|
-|Michigan       |   19|   34|   38|   33|
-|Maryland       |   17|   22|   18|   26|
-|Oklahoma       |   17|   14|   12|   25|
-|Washington     |   18|   30|   17|   25|
-|Arkansas       |   22|   14|   22|   24|
-|Kentucky       |   29|   21|   28|   23|
+The following files can be downloaded from the `data` directory in this repository. Full tables are below.
 
-### Maternal mortality (pregnancy to 6 weeks) by state
+* [Pregnancy-related death counts and rates by state](/data/cdc_pregnancy_related_deaths2018_2021.csv)<br />
+CDC data on the number of deaths due to ICD-10 codes associated with pregnancy-related injuries and illnesses up to a year after pregnancy for all states with data from 2018-2021.
+* [Pregnancy-related death counts and rates in NC by race](/data/cdc_pregnancy_related_deaths2018_2021_nc_race.csv)<br />
+CDC data on the number of deaths due to ICD-10 codes associated with pregnancy-related injuries and illnesses up to a year after pregnancy from 2018-2021 for non-Hispanic white and non-Hispanic Black residents of North Carolina. Live birth data comes from the National Vital Statistics System, and pregnancy-related death rates are calculated per 100,000 live births.
+* [Pregnancy-related deaths and COVID](/data/nc_vital_pregnancy_related_deaths_covid2018_2021.csv)<br />
+State death certificate data on the number of pregnancy-related deaths listing the ICD-10 code for COVID (U071) as a contributing cause of death along with a pregnancy-related underlying cause of death. *NOTE: 2022 data below from DHHS is preliminary as of July 2023 and is not final.*
+* [Severe maternal morbidity counts for NC resident deliveries, 2018-2021](data/smm_data_26JUN2023.xlsx)<br />
+N.C. DHHS data on severe maternal morbidity, based on hospital discharge data from 2018 to 2022, as of June 2023. *Note: The State Center for Health Statistics discharge data files are considered provisional and subject to change until they finalize their discharge data, which typically occurs within 2-3 years after the end of the calendar year.*
 
-|state          | 2018| 2019| 2020| 2021|
-|:--------------|----:|----:|----:|----:|
-|*United States*  |  *658*|  *754*|  *861*| *1,205*|
-|Texas          |   70|   69|  118|  164|
-|Florida        |   35|   59|   47|   87|
-|Georgia        |   35|   43|   30|   61|
-|New York       |   47|   49|   37|   55|
-|**North Carolina** |   **13**|   **26**|   **34**|   **53**|
-|Tennessee      |   21|   21|   41|   51|
-|Virginia       |   16|   21|   28|   48|
-|California     |   53|   50|   32|   41|
-|Illinois       |   14|   14|   26|   41|
-|Ohio           |   19|   32|   34|   41|
-|Louisiana      |   15|   20|   21|   35|
-|Alabama        |   21|   21|   21|   33|
-|Arizona        |   18|   20|   29|   32|
-|Indiana        |   20|   23|   25|   32|
-|New Jersey     |   27|   18|   27|   31|
-|Pennsylvania   |   19|   25|   16|   29|
-|South Carolina |   14|   17|   18|   25|
-|Oklahoma       |   15|   11|   10|   23|
-|Maryland       |   10|   15|   14|   20|
-|Michigan       |   18|   16|   29|   20|
-|Arkansas       |   17|   12|   15|   19|
-|Missouri       |   12|   12|   30|   19|
-|Kentucky       |   22|   20|   21|   18|
-|Washington     |   13|   23|   16|   17|
+### Selected tables
 
-*NOTE: Although CDC does have available data on pregnancy-related deaths prior to 2018, the nationwide analysis here is limited due to variations in how states implemented a pregnancy checkbox, which can alter the underlying cause of death to a pregnancy-related code if the checkbox indicates that the decedent was pregnant within a year of death.*
+#### Pregnancy-related death counts and rates by state
 
-The CDC notes the following: *Caution should be taken in interpreting these data and comparing states for the following reasons. - For many states, the data are based on small numbers and are, therefore, statistically unreliable. Statistical variability in the maternal mortality rate is determined largely by the number of maternal deaths (i.e., as the number of deaths decreases, the variance, or measure of uncertainty, increases). Rates based on fewer than 20 deaths are suppressed because of reliability and confidentiality. - It is likely that some of the variation in state rates is due to the marked differences in the quality of state maternal mortality data. Variation in the quality of reporting maternal deaths may be due to differences in electronic registration systems and differences in policies and programs designed to verify the pregnancy status of female decedents of reproductive age. These differences may result in underestimates of maternal deaths in some cases, and overestimates in others.*
+CDC data on the number of deaths due to ICD-10 codes associated with pregnancy-related injuries and illnesses up to a year after pregnancy for all states with data from 2018-2021. Live birth data comes from the National Vital Statistics System, and pregnancy-related death rates are calculated per 100,000 live births.
 
-## Pregnancy-related deaths in NC
+|Year |State          | Deaths|    Births|  Rate|
+|:----|:--------------|------:|---------:|-----:|
+|2018 |TOTAL          |    935| 3,791,712|  24.7|
+|2019 |TOTAL          |  1,076| 3,747,540|  28.7|
+|2020 |TOTAL          |  1,268| 3,613,647|  35.1|
+|2021 |TOTAL          |  1,666| 3,664,292|  45.5|
+|2018 |North Carolina |     24|   118,954|  20.2|
+|2019 |North Carolina |     45|   118,725|  37.9|
+|2020 |North Carolina |     66|   116,730|  56.5|
+|2021 |North Carolina |     82|   120,466|  68.1|
+|2018 |Alabama        |     31|    57,761|  53.7|
+|2019 |Alabama        |     33|    58,615|  56.3|
+|2020 |Alabama        |     34|    57,647|  59.0|
+|2021 |Alabama        |     50|    58,054|  86.1|
+|2018 |Arizona        |     22|    80,723|  27.3|
+|2019 |Arizona        |     31|    79,375|  39.1|
+|2020 |Arizona        |     39|    76,947|  50.7|
+|2021 |Arizona        |     38|    77,916|  48.8|
+|2018 |Arkansas       |     22|    37,018|  59.4|
+|2019 |Arkansas       |     14|    36,564|  38.3|
+|2020 |Arkansas       |     22|    35,251|  62.4|
+|2021 |Arkansas       |     24|    35,965|  66.7|
+|2018 |California     |     79|   454,920|  17.4|
+|2019 |California     |     68|   446,479|  15.2|
+|2020 |California     |     81|   420,259|  19.3|
+|2021 |California     |     92|   420,608|  21.9|
+|2018 |Florida        |     54|   221,542|  24.4|
+|2019 |Florida        |     69|   220,002|  31.4|
+|2020 |Florida        |     58|   209,671|  27.7|
+|2021 |Florida        |    107|   216,260|  49.5|
+|2018 |Georgia        |     61|   126,172|  48.3|
+|2019 |Georgia        |     62|   126,371|  49.1|
+|2020 |Georgia        |     49|   122,473|  40.0|
+|2021 |Georgia        |     95|   124,073|  76.6|
+|2018 |Illinois       |     22|   144,815|  15.2|
+|2019 |Illinois       |     20|   140,128|  14.3|
+|2020 |Illinois       |     37|   133,298|  27.8|
+|2021 |Illinois       |     47|   132,189|  35.6|
+|2018 |Indiana        |     23|    81,646|  28.2|
+|2019 |Indiana        |     33|    80,859|  40.8|
+|2020 |Indiana        |     33|    78,616|  42.0|
+|2021 |Indiana        |     38|    79,946|  47.5|
+|2018 |Kentucky       |     29|    53,922|  53.8|
+|2019 |Kentucky       |     21|    53,069|  39.6|
+|2020 |Kentucky       |     28|    51,668|  54.2|
+|2021 |Kentucky       |     23|    52,214|  44.0|
+|2018 |Louisiana      |     21|    59,615|  35.2|
+|2019 |Louisiana      |     26|    58,941|  44.1|
+|2020 |Louisiana      |     31|    57,328|  54.1|
+|2021 |Louisiana      |     44|    57,437|  76.6|
+|2018 |Maryland       |     17|    71,080|  23.9|
+|2019 |Maryland       |     22|    70,178|  31.3|
+|2020 |Maryland       |     18|    68,554|  26.3|
+|2021 |Maryland       |     26|    68,285|  38.1|
+|2018 |Michigan       |     19|   110,032|  17.3|
+|2019 |Michigan       |     34|   107,886|  31.5|
+|2020 |Michigan       |     38|   104,074|  36.5|
+|2021 |Michigan       |     33|   104,980|  31.4|
+|2018 |Minnesota      |     10|    67,344|  14.8|
+|2019 |Minnesota      |     11|    66,027|  16.7|
+|2020 |Minnesota      |     12|    63,443|  18.9|
+|2021 |Minnesota      |     17|    64,425|  26.4|
+|2018 |Mississippi    |     15|    37,000|  40.5|
+|2019 |Mississippi    |     21|    36,636|  57.3|
+|2020 |Mississippi    |     15|    35,473|  42.3|
+|2021 |Mississippi    |     38|    35,156| 108.1|
+|2018 |Missouri       |     24|    73,269|  32.8|
+|2019 |Missouri       |     16|    72,127|  22.2|
+|2020 |Missouri       |     39|    69,285|  56.3|
+|2021 |Missouri       |     35|    69,453|  50.4|
+|2018 |New Jersey     |     34|   101,223|  33.6|
+|2019 |New Jersey     |     34|    99,585|  34.1|
+|2020 |New Jersey     |     35|    97,954|  35.7|
+|2021 |New Jersey     |     44|   101,497|  43.4|
+|2018 |New York       |     65|   226,238|  28.7|
+|2019 |New York       |     77|   221,539|  34.8|
+|2020 |New York       |     70|   209,338|  33.4|
+|2021 |New York       |     89|   210,742|  42.2|
+|2018 |Ohio           |     27|   135,134|  20.0|
+|2019 |Ohio           |     45|   134,461|  33.5|
+|2020 |Ohio           |     43|   129,191|  33.3|
+|2021 |Ohio           |     65|   129,791|  50.1|
+|2018 |Oklahoma       |     17|    49,800|  34.1|
+|2019 |Oklahoma       |     14|    49,143|  28.5|
+|2020 |Oklahoma       |     12|    47,623|  25.2|
+|2021 |Oklahoma       |     25|    48,410|  51.6|
+|2018 |Pennsylvania   |     27|   135,673|  19.9|
+|2019 |Pennsylvania   |     39|   134,230|  29.1|
+|2020 |Pennsylvania   |     25|   130,693|  19.1|
+|2021 |Pennsylvania   |     46|   132,622|  34.7|
+|2018 |South Carolina |     16|    56,669|  28.2|
+|2019 |South Carolina |     24|    57,038|  42.1|
+|2020 |South Carolina |     31|    55,704|  55.7|
+|2021 |South Carolina |     37|    57,185|  64.7|
+|2018 |Tennessee      |     26|    80,751|  32.2|
+|2019 |Tennessee      |     29|    80,450|  36.0|
+|2020 |Tennessee      |     52|    78,689|  66.1|
+|2021 |Tennessee      |     61|    81,717|  74.6|
+|2018 |Texas          |     92|   378,624|  24.3|
+|2019 |Texas          |     85|   377,599|  22.5|
+|2020 |Texas          |    155|   368,190|  42.1|
+|2021 |Texas          |    205|   373,594|  54.9|
+|2018 |Virginia       |     21|    99,843|  21.0|
+|2019 |Virginia       |     32|    97,429|  32.8|
+|2020 |Virginia       |     44|    94,749|  46.4|
+|2021 |Virginia       |     60|    95,825|  62.6|
+|2018 |Washington     |     18|    86,085|  20.9|
+|2019 |Washington     |     30|    84,895|  35.3|
+|2020 |Washington     |     17|    83,086|  20.5|
+|2021 |Washington     |     25|    83,911|  29.8|
 
-**NOTE: The results here are PRELIMINARY and are subject to change as additional verification, fact-checking, etc. takes place. If you spot any errors, please contact N&O reporter [Tyler Dukes](mailto:mtdukes@newsobserver.com).**
 
-The N&O analyzed both maternal deaths (during pregnancy to 6 weeks after) and late maternal deaths (6 weeks to a year after pregnancy), according to the N.C. DHHS State Center for Health Statistics death certificate database. Rates are calculated per 100,000 live births sourced from National Vital Statistics System final reports for 2021.
+#### Pregnancy-related death counts and rates in NC by race
+CDC data on the number of deaths due to ICD-10 codes associated with pregnancy-related injuries and illnesses up to a year after pregnancy from 2018-2021 for non-Hispanic white and non-Hispanic Black residents of North Carolina. Live birth data comes from the National Vital Statistics System, and pregnancy-related death rates are calculated per 100,000 live births.
 
-*NOTE: Death certificate data tracks the death of any person in North Carolina, regardless of residency. As such, these figures will differ slightly from the data above from the CDC, which counts deaths based on a person's residence.*
+|year | Deaths, total| Births, total| Rate, total| Deaths, white| Births, white| Rate, white| Deaths, Black| Births, Black| Rate, Black|
+|:----|-------------:|-------------:|-----------:|-------------:|-------------:|-----------:|-------------:|-------------:|-----------:|
+|2018 |            24|       118,954|        20.2|            12|        63,514|        18.9|            10|        27,670|        36.1|
+|2019 |            45|       118,725|        37.9|            16|        62,205|        25.7|            21|        27,733|        75.7|
+|2020 |            66|       116,730|        56.5|            18|        60,518|        29.7|            39|        27,228|       143.2|
+|2021 |            82|       120,466|        68.1|            36|        63,239|        56.9|            30|        27,028|       111.0|
 
-### Pregnancy-related deaths by race/ethnicity
 
-*NOTE: Counts for other races/ethnicities excluded. 2022 data below from DHHS is not final.*
+#### Pregnancy-related deaths and COVID
+State death certificates data on the number of pregnancy-related deaths listing the ICD-10 code for COVID (U071) as a contributing cause of death along with a pregnancy-related underlying cause of death. *NOTE: 2022 data below from DHHS is preliminary as of July 2023 and is not final.*
 
-|Year | Total| White| Black| Hispanic|
-|:----|-----:|-----:|-----:|--------:|
-|2014 |    34|    10|    21|        2|
-|2015 |    43|    22|    15|        4|
-|2016 |    37|    19|    14|        4|
-|2017 |    25|    11|    11|        0|
-|2018 |    19|     9|     8|        2|
-|2019 |    43|    14|    20|        6|
-|2020 |    66|    18|    39|        5|
-|2021 |    79|    32|    31|       12|
-|*2022* |    *61*|    *28*|    *21*|        *9*|
-
-### Pregnancy-related death rates by race/ethnicity
-
-*NOTE: Racial data for years prior to 2016 not comparable due to changes in how ethnicity was recorded. Rates for other races/ethnicities excluded. 2022 data below from DHHS is not final.*
-
-|year | total| white| black| hisp|
-|:----|-----:|-----:|-----:|----:|
-|2016 |  30.6|  28.9|  51.1| 21.8|
-|2017 |  20.8|  17.1|  39.4|  0.0|
-|2018 |  16.0|  14.2|  28.9| 10.9|
-|2019 |  36.2|  22.5|  72.1| 31.4|
-|2020 |  56.5|  29.7| 143.2| 25.7|
-|2021 |  65.6|  50.6| 114.7| 58.2|
-
-### Pregnancy-related deaths and COVID
-
-Death certificates that listed the ICD-10 code for COVID (U071) as a contributing cause of death along with a pregnancy-related underlying cause of death.
-
-*NOTE: 2022 data below from DHHS is not final.*
-
-|covid_code | 2019| 2020| 2021| *2022*|
-|:----------|----:|----:|----:|----:|
-|NOT LISTED |   43|   63|   53|   *57*|
-|LISTED     |    0|    3|   26|    *4*|
-|Total      |   43|   66|   79|   *61*|
-
-### Pregnancy-related deaths and rural-urban classification, 2018-2021
-
-All pregnancy-related deaths for the years 2018-2021 in North Carolina according to death certificate data, aggregated into rural-urban categories. These categories are based on the [NCHS urban-rural classification scheme for counties](https://www.cdc.gov/nchs/data_access/urban_rural.htm#Data_Files_and_Documentation), collpased into three larger groups per the methodology of [Thoma et al.](https://journals.lww.com/greenjournal/Fulltext/9900/Changes_in_Pregnancy_Related_Mortality_Associated.721.aspx)
-
-|urban_class        | deaths| births| rate|
-|:------------------|------:|------:|----:|
-|LARGE URBAN        |     64| 171,954| 37.2|
-|MEDIUM-SMALL URBAN |    100| 209,425| 47.7|
-|RURAL              |     43|  93,496| 46.0|
-|TOTAL              |    207| 474,875| 43.6|
+|Year | COVID listed| COVID not listed| Deaths, total|
+|:----|------------:|----------------:|-------------:|
+|2018 |            0|               19|            19|
+|2019 |            0|               43|            43|
+|2020 |            3|               63|            66|
+|2021 |           26|               53|            79|
+|*2022* |            *5*|               *51*|            *56*|
