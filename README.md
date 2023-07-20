@@ -12,6 +12,8 @@
 
 * [Pregnancy-related deaths open voids in families expecting to celebrate new life](https://www.newsobserver.com/news/state/north-carolina/article277398108.html)<br />July 19, 2023 // Tyler Dukes & Ethan Hyman
 
+* [Five takeaways from investigating pregnancy-related deaths in NC](https://www.newsobserver.com/news/state/north-carolina/article277276748.html)<br />July 20, 2023 // Tyler Dukes, Teddy Rosenbluth & Lisa Vernon Sparks
+
 ## How we did this story
 
 National and international health agencies have slightly different ways to define pregnancy-related deaths.
