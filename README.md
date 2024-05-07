@@ -188,3 +188,149 @@ State death certificates data on the number of pregnancy-related deaths listing 
 |2020 |            3|               63|            66|
 |2021 |           26|               53|            79|
 |*2022* |            *5*|               *51*|            *56*|
+
+## 2024 update
+In May 2024, the Centers for Disease Control and Prevention updated its online WONDER tool with new mortality data through 2022. The News & Observer is working to update its 2023 analysis of pregnancy-related deaths with this new data, using a similar methodology noted above.
+
+*NOTE: Data below is PRELIMINARY and still subject to fact-checking and verification.*
+
+### Pregnancy-related death rates nationally, by state
+
+States not shown in the table had their pregnancy-related death counts suppressed by the CDC due to low numbers and privacy concerns.
+
+![Rates of pregnancy-related deaths by state, 2018-2022](images/prelim_prd_1822.png)
+
+### Pregnancy-related death rates nationally, by state
+In many states, rates of pregnancy-related deaths dropped in 2022 following peaks during the COVID-19 pandemic. States not shown in the table had their pregnancy-related death counts suppressed by the CDC due to low numbers and privacy concerns.
+
+|state          | 2018| 2019| 2020| 2021| 2022|
+|:--------------|----:|----:|----:|----:|----:|
+|United States  | 24.7| 28.7| 35.1| 45.5| 33.9|
+|Virginia       | 21.0| 32.8| 46.4| 62.6| 63.8|
+|Tennessee      | 32.2| 36.0| 66.1| 74.6| 55.9|
+|**North Carolina** | **20.2**| **37.9**| **56.5**| **68.1**| **51.8**|
+|South Carolina | 28.2| 42.1| 55.7| 64.7| 45.0|
+|Ohio           | 20.0| 33.5| 33.3| 50.1| 43.7|
+|Georgia        | 48.3| 49.1| 40.0| 76.6| 43.6|
+|Texas          | 24.3| 22.5| 42.1| 54.9| 39.8|
+|Alabama        | 53.7| 56.3| 59.0| 86.1| 39.6|
+|New Jersey     | 33.6| 34.1| 35.7| 43.4| 38.9|
+|Maryland       | 23.9| 31.3| 26.3| 38.1| 36.3|
+|Louisiana      | 35.2| 44.1| 54.1| 76.6| 35.4|
+|Michigan       | 17.3| 31.5| 36.5| 31.4| 35.2|
+|Oklahoma       | 34.1| 28.5| 25.2| 51.6| 35.2|
+|New York       | 28.7| 34.8| 33.4| 42.2| 34.7|
+|Arizona        | 27.3| 39.1| 50.7| 48.8| 34.4|
+|Missouri       | 32.8| 22.2| 56.3| 50.4| 33.3|
+|Pennsylvania   | 19.9| 29.1| 19.1| 34.7| 33.0|
+|Indiana        | 28.2| 40.8| 42.0| 47.5| 32.6|
+|Illinois       | 15.2| 14.3| 27.8| 35.6| 31.2|
+|Colorado       |   NA| 22.3| 26.0| 25.4| 28.9|
+|Kentucky       | 53.8| 39.6| 54.2| 44.0| 28.7|
+|Massachusetts  | 20.3|   NA| 27.1| 21.7| 26.2|
+|Florida        | 24.4| 31.4| 27.7| 49.5| 23.6|
+|California     | 17.4| 15.2| 19.3| 21.9| 16.5|
+|Vermont        |  0.0|   NA|  0.0|  0.0|  0.0|
+|Arkansas       | 59.4| 38.3| 62.4| 66.7|   NA|
+|Washington     | 20.9| 35.3| 20.5| 29.8|   NA|
+
+
+### Pregnancy-related death counts, nationally, by state
+
+States not shown in the table had their pregnancy-related death counts suppressed by the CDC due to low numbers and privacy concerns. States aren't included in this table unless they have three or more years of reported data.
+
+|state          |type         | 2018| 2019| 2020| 2021| 2022|
+|:--------------|:------------|----:|----:|----:|----:|----:|
+|United States  |all_deaths   |  935| 1076| 1268| 1666| 1245|
+|United States  |early_deaths |  658|  754|  861| 1205|  817|
+|United States  |late_deaths  |  277|  322|  407|  461|  428|
+|Virginia       |all_deaths   |   21|   32|   44|   60|   61|
+|Virginia       |early_deaths |   16|   21|   28|   48|   45|
+|Virginia       |late_deaths  |    5|   11|   16|   12|   16|
+|Tennessee      |all_deaths   |   26|   29|   52|   61|   46|
+|Tennessee      |early_deaths |   21|   21|   41|   51|   32|
+|Tennessee      |late_deaths  |    5|    8|   11|   10|   14|
+|**North Carolina** |**all_deaths**  |   **24**|   **45**|   **66**|   **82**|   **63**|
+|**North Carolina** |**early_deaths** |   **13**|   **26**|   **34**|   **53**|   **33**|
+|**North Carolina** |**late_deaths**  |   **11**|   **19**|   **32**|   **29**|   **30**|
+|South Carolina |all_deaths   |   16|   24|   31|   37|   26|
+|South Carolina |early_deaths |   14|   17|   18|   25|   18|
+|South Carolina |late_deaths  |    2|    7|   13|   12|    8|
+|Ohio           |all_deaths   |   27|   45|   43|   65|   56|
+|Ohio           |early_deaths |   19|   32|   34|   41|   35|
+|Ohio           |late_deaths  |    8|   13|    9|   24|   21|
+|Georgia        |all_deaths   |   61|   62|   49|   95|   55|
+|Georgia        |early_deaths |   35|   43|   30|   61|   32|
+|Georgia        |late_deaths  |   26|   19|   19|   34|   23|
+|Texas          |all_deaths   |   92|   85|  155|  205|  155|
+|Texas          |early_deaths |   70|   69|  118|  164|  111|
+|Texas          |late_deaths  |   22|   16|   37|   41|   44|
+|Alabama        |all_deaths   |   31|   33|   34|   50|   23|
+|Alabama        |early_deaths |   21|   21|   21|   33|   16|
+|Alabama        |late_deaths  |   10|   12|   13|   17|    7|
+|New Jersey     |all_deaths   |   34|   34|   35|   44|   40|
+|New Jersey     |early_deaths |   27|   18|   27|   31|   28|
+|New Jersey     |late_deaths  |    7|   16|    8|   13|   12|
+|Maryland       |all_deaths   |   17|   22|   18|   26|   25|
+|Maryland       |early_deaths |   10|   15|   14|   20|   15|
+|Maryland       |late_deaths  |    7|    7|    4|    6|   10|
+|Louisiana      |all_deaths   |   21|   26|   31|   44|   20|
+|Louisiana      |early_deaths |   15|   20|   21|   35|   17|
+|Louisiana      |late_deaths  |    6|    6|   10|    9|    3|
+|Michigan       |all_deaths   |   19|   34|   38|   33|   36|
+|Michigan       |early_deaths |   18|   16|   29|   20|   18|
+|Michigan       |late_deaths  |    1|   18|    9|   13|   18|
+|Oklahoma       |all_deaths   |   17|   14|   12|   25|   17|
+|Oklahoma       |early_deaths |   15|   11|   10|   23|   13|
+|Oklahoma       |late_deaths  |    2|    3|    2|    2|    4|
+|New York       |all_deaths   |   65|   77|   70|   89|   72|
+|New York       |early_deaths |   47|   49|   37|   55|   53|
+|New York       |late_deaths  |   18|   28|   33|   34|   19|
+|Arizona        |all_deaths   |   22|   31|   39|   38|   27|
+|Arizona        |early_deaths |   18|   20|   29|   32|   19|
+|Arizona        |late_deaths  |    4|   11|   10|    6|    8|
+|Missouri       |all_deaths   |   24|   16|   39|   35|   23|
+|Missouri       |early_deaths |   12|   12|   30|   19|   11|
+|Missouri       |late_deaths  |   12|    4|    9|   16|   12|
+|Wisconsin      |all_deaths   |   NA|   NA|   NA|   17|   20|
+|Wisconsin      |early_deaths |   NA|   NA|   NA|   12|   12|
+|Wisconsin      |late_deaths  |   NA|   NA|   NA|    5|    8|
+|Pennsylvania   |all_deaths   |   27|   39|   25|   46|   43|
+|Pennsylvania   |early_deaths |   19|   25|   16|   29|   27|
+|Pennsylvania   |late_deaths  |    8|   14|    9|   17|   16|
+|Indiana        |all_deaths   |   23|   33|   33|   38|   26|
+|Indiana        |early_deaths |   20|   23|   25|   32|   24|
+|Indiana        |late_deaths  |    3|   10|    8|    6|    2|
+|Illinois       |all_deaths   |   22|   20|   37|   47|   40|
+|Illinois       |early_deaths |   14|   14|   26|   41|   28|
+|Illinois       |late_deaths  |    8|    6|   11|    6|   12|
+|Colorado       |all_deaths   |   NA|   14|   16|   16|   18|
+|Colorado       |early_deaths |   NA|   12|   10|   11|   12|
+|Colorado       |late_deaths  |   NA|    2|    6|    5|    6|
+|Kentucky       |all_deaths   |   29|   21|   28|   23|   15|
+|Kentucky       |early_deaths |   22|   20|   21|   18|   10|
+|Kentucky       |late_deaths  |    7|    1|    7|    5|    5|
+|Massachusetts  |all_deaths   |   14|   NA|   18|   15|   18|
+|Massachusetts  |early_deaths |   12|   NA|   12|   12|   14|
+|Massachusetts  |late_deaths  |    2|   NA|    6|    3|    4|
+|Florida        |all_deaths   |   54|   69|   58|  107|   53|
+|Florida        |early_deaths |   35|   59|   47|   87|   35|
+|Florida        |late_deaths  |   19|   10|   11|   20|   18|
+|California     |all_deaths   |   79|   68|   81|   92|   69|
+|California     |early_deaths |   53|   50|   32|   41|   52|
+|California     |late_deaths  |   26|   18|   49|   51|   17|
+|Vermont        |all_deaths   |    0|   NA|    0|    0|    0|
+|Vermont        |early_deaths |    0|   NA|    0|    0|    0|
+|Vermont        |late_deaths  |    0|   NA|    0|    0|    0|
+|Arkansas       |all_deaths   |   22|   14|   22|   24|   NA|
+|Arkansas       |early_deaths |   17|   12|   15|   19|   NA|
+|Arkansas       |late_deaths  |    5|    2|    7|    5|   NA|
+|Mississippi    |all_deaths   |   NA|   21|   15|   38|   NA|
+|Mississippi    |early_deaths |   NA|   15|   10|   29|   NA|
+|Mississippi    |late_deaths  |   NA|    6|    5|    9|   NA|
+|Utah           |all_deaths   |   NA|   14|   NA|   16|   NA|
+|Utah           |early_deaths |   NA|   11|   NA|   13|   NA|
+|Utah           |late_deaths  |   NA|    3|   NA|    3|   NA|
+|Washington     |all_deaths   |   18|   30|   17|   25|   NA|
+|Washington     |early_deaths |   13|   23|   16|   17|   NA|
+|Washington     |late_deaths  |    5|    7|    1|    8|   NA|
