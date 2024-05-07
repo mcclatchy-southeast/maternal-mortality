@@ -200,6 +200,7 @@ States not shown in the table had their pregnancy-related death counts suppresse
 
 ![Rates of pregnancy-related deaths by state, 2018-2022](images/prelim_prd_1822.png)
 
+
 ### Pregnancy-related death rates nationally, by state
 In many states, rates of pregnancy-related deaths dropped in 2022 following peaks during the COVID-19 pandemic. States not shown in the table had their pregnancy-related death counts suppressed by the CDC due to low numbers and privacy concerns.
 
@@ -234,8 +235,20 @@ In many states, rates of pregnancy-related deaths dropped in 2022 following peak
 |Arkansas       | 59.4| 38.3| 62.4| 66.7|   NA|
 |Washington     | 20.9| 35.3| 20.5| 29.8|   NA|
 
+### Severe maternal morbidity, North Carolina
 
-### Pregnancy-related death counts, nationally, by state
+N.C. DHHS provided data on several maternal morbidity, excluding transfusions, by year from 2018 to 2022, as well as rates per 10,000 delivery hospitalizations in non-federal North Carolina hospitals, based on discharge data.
+
+| Year | SMM cases | Deliveries | Rate
+|:-----|----------:|-----------:|-----:|
+|2018  | 790       | 109,726    | 72.0 |
+|2019  | 837       | 108,873    | 76.9 |
+|2020  | 931       | 108,213    | 86.0 |
+|2021  | 1,151     | 111,991    | 102.8|
+|2022  | 1,041     | 113,098    | 92.0 |
+
+
+### Detailed table: Pregnancy-related death count by type, nationally, by state
 
 States not shown in the table had their pregnancy-related death counts suppressed by the CDC due to low numbers and privacy concerns. States aren't included in this table unless they have three or more years of reported data.
 
